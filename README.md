@@ -1,5 +1,7 @@
 # ![MuShop Logo](./images/logo.png#gh-light-mode-only)![MuShop Logo - Dark Mode](./images/logo-inverse.png#gh-dark-mode-only)
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/c0dy1c/oci-cloudnative/badge)](https://securityscorecards.dev/viewer/?uri=github.com/c0dy1c/oci-cloudnative)
+
 MuShop is a showcase of several [Oracle Cloud Infrastructure][oci] services in a unified reference application. The sample application implements an e-commerce platform built as a set of micro-services. The accompanying content can be used to get started with cloud native application development on [Oracle Cloud Infrastructure][oci].
 
 | ![home](./images/screenshot/mushop.home.png) | ![browse](./images/screenshot/mushop.browse.png) | ![cart](./images/screenshot/mushop.cart.png) | ![about](./images/screenshot/mushop.about.png) |
